@@ -1,6 +1,9 @@
 const pizzaPlace = "Pizza Planet";
 let numberOfToppings = 5;
 
+console.log(pizzaPlace);
+console.log(numberOfToppings);
+
 console.log(typeof "pizzPlace");
 console.log (typeof "numberOfToppings");
 
