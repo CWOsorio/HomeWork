@@ -13,7 +13,10 @@ greetCustomer(welcome)
 console.log(`We have an array of fresh toppings that include,
 ${pizzaToppings}! Our toppings list is small but AMAZING!`);
 
-function getPizzaOrder()
+function getPizzaOrder(size, crust, toppings) {
+  
+}
+
 
 
 
