@@ -21,3 +21,16 @@ img {
       text-align: center;
       text-decoration: purple;
   }
+  #title {
+    font-size: larger;
+    color: purple;
+}
+
+   header + h2 {
+        color:purple;
+    }
+
+    footer{
+        text-align: center;
+        color: purple;
+    }
