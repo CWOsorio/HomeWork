@@ -14,3 +14,9 @@ console.log ("Quality, not quantity.");
 }else {
   console.log("A whole lot of pizza");
 }
+
+for (let i = 1; i <= numberOfToppings; i++){
+  if (i % 2 === 0) {
+    console.log(i);
+  }
+}

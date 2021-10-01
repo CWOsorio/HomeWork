@@ -19,4 +19,4 @@ function greet(name) {
   
   // pass each "regular" function into getAndShowMessage as a callback function
   
-  getNameAndShowMessage(greet);
+  getNameAndShowMessage(informAboutSale);
